@@ -38,18 +38,7 @@ Backend-focused, mobile-experienced, always shipping. 🚀
 
 ---
 
-## 📱 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🗺️ [LokYatra](https://github.com/karkisaroj/LokYatra) | Travel app for Nepal | Flutter / Dart |
-| 📚 [BookNest](https://github.com/karkisaroj/BookNest) | Book management app | Java |
-| 🧘 [Wellness](https://github.com/karkisaroj/Welness) | Health & wellness tracker | Flutter / Dart |
-| ✅ [ToDoList](https://github.com/karkisaroj/ToDoList) | Clean task manager | Flutter / Dart |
-| 📖 [StudyPub](https://github.com/karkisaroj/studypub) | Study with friends like Discord | Python / Django |
-| ☕ [Coffee Shop](https://github.com/karkisaroj/coffee-shop) | Coffee shop UI | HTML |
-
----
 
 ## 📊 GitHub Stats
 
