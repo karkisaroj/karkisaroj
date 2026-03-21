@@ -20,22 +20,10 @@ CS Student from Nepal 🇳🇵 · Backend-focused · Mobile-experienced · Alway
 
 ---
 
-### 💡 Proficiency
-
-| Language | Level |
-|----------|-------|
-| C# ❤️ | ████████████████████ 95% |
-| Dart / Flutter 📱 | ██████████████████░░ 88% |
-| Python 🐍 | ██████████████░░░░░░ 70% |
-| Java ☕ | ████████████░░░░░░░░ 60% |
-
----
-
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karkisaroj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karkisaroj&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=html,css" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karkisaroj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=issues,contribs" width="55%" />
 </p>
 
 ---
