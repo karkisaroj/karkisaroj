@@ -1,7 +1,7 @@
 # Hi, I'm Saroj Karki 👋
 
 ```csharp
-if (language == "C#") => Mood(Happy);
+if (pull request == "201") => Mood(Happy);
 ```
 
 CS Student from Nepal 🇳🇵 · Backend-focused · Mobile-experienced · Always shipping 🚀
