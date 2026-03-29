@@ -20,12 +20,3 @@ CS Student from Nepal 🇳🇵 · Backend-focused · Mobile-experienced · Alway
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karkisaroj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=issues,contribs" width="55%" />
-</p>
-
----
-
-<p align="center"><i>⚡ "Code is poetry — and C# is my favorite verse." ⚡</i></p>
