@@ -3,9 +3,6 @@
 ```csharp
 if (pull request == "201") => Mood(Happy);
 ```
-
-CS Student from Nepal 🇳🇵 · Backend-focused · Mobile-experienced · Always shipping 🚀
-
 ---
 
 ### 🛠️ Stack
