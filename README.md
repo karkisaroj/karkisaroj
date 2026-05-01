@@ -1,9 +1,5 @@
 # Hi, I'm Saroj Karki 👋
 
-```csharp
-if (pull request == "201") => Mood(Happy);
-```
----
 
 ### 🛠️ Stack
 
